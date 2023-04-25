@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "HW Focus Helper",
+  "version": "1.0",
+  "description": "Has a constant timer to help keep track of time as it passes, a to-do list with estimated times after which it will ask back if you finished, and can block certain links so you will stay focused."
+}
